@@ -1,0 +1,35 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": [
+        "Cancel factoid"
+      ]
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": [
+        "help",
+        "help me",
+        "what is this"
+      ]
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": [
+        "Stop talking",
+        "stop speaking"
+      ]
+    },
+    {
+      "name": "GetNewFactIntent",
+      "samples": [
+        "get me a fact",
+        "get me a factoid",
+        "tell me a factoid",
+        "tell me a fact"
+      ],
+      "slots": []
+    }
+  ]
+}
