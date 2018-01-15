@@ -4,7 +4,5 @@ An Amazon Alexis Skill that tells you a random factoid. Factoids are from my poo
 
 Features to build
 * ~~tell a random factoid~~ - *completed 09/16/17*
-* ping external json blob
-* ping actual twitter feed, not json blob
-* cache twitter feed
+* make an actual JustTheFactoids database with a legit RESTful API and ping that (separate GitHub repo)
 * command to ask for current factoid
